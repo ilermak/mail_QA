@@ -36,4 +36,4 @@ class Test:
     def test2(self, func_fixture, class_fixture, session_fixture):
         print(f"func_fixture: {func_fixture}", f" class_fixture: {class_fixture}", f" session_fixture: {session_fixture}")
 
-print("aaaa")
+print("aaaa") #asdfghjhgfdscgf
